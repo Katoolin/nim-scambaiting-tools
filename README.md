@@ -9,7 +9,6 @@
 ![](https://img.shields.io/github/languages/top/juancarlospaco/nim-scambaiting-tools?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/juancarlospaco/nim-scambaiting-tools?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/stars/juancarlospaco/nim-scambaiting-tools?style=for-the-badge "Star nim-scambaiting-tools on GitHub!")
-![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge "2019")
 ![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-scambaiting-tools?style=for-the-badge)
 ![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-scambaiting-tools?style=for-the-badge "Bugs")
 ![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-scambaiting-tools?style=for-the-badge "PRs")
